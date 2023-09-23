@@ -1,14 +1,17 @@
-<html>
+ <html>
    <head>
+     <title>Instal services</title> 
      </head>
-   <body>
+    <body>
 <header>
 <input type="text" id=”box1”>
-<label for="box1">Email</label>
+<label for="box1">Usuario</label>
+   <input type="text" id=”box2”>
+<label for="box2">Password</label>
 </header>
 <main>
 <h1>
-Preocupate solo de trabajar, dejanos la gestión a nosotros
+Preocúpate solo de trabajar, dejanos la gestión a nosotros
 </h1>
 </main>
 <footer>
